@@ -1,0 +1,8 @@
+{
+  "name" : "mint",
+  "category" : "Taripet",
+  "type" : "body",
+  "frames" : {
+    "body" : "mint.png"
+  }
+}

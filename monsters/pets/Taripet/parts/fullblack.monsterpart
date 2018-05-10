@@ -1,0 +1,8 @@
+{
+  "name" : "fullblack",
+  "category" : "Taripet",
+  "type" : "body",
+  "frames" : {
+    "body" : "fullblack.png"
+  }
+}

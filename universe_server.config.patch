@@ -1,0 +1,16 @@
+[
+	{ "op" : "add",
+		"path" : "/speciesShips/Tari",
+		"value" : [
+		    "/ships/Tari/Tarit0.structure",
+			"/ships/Tari/Tarit1.structure",
+			"/ships/Tari/Tarit2.structure",
+			"/ships/Tari/Tarit3.structure",
+			"/ships/Tari/Tarit4.structure",
+			"/ships/Tari/Tarit5.structure",
+			"/ships/Tari/Tarit6.structure",
+			"/ships/Tari/Tarit7.structure",
+			"/ships/Tari/Tarit8.structure"
+		]
+	}
+]

@@ -1,0 +1,29 @@
+{
+  "objectName" : "Taribannersmall",
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 50,
+  "printable" : false,
+  "description" : "A small Tari wallbanner from a Tari academy.",
+  "shortdescription" : "Small Tari Wall Banner",
+  "race" : "Tari",
+  "apexDescription" : "This banner is small...",
+  "avianDescription" : "A small banner",
+  "floranDescription" : "Floran likesss thisss.",
+  "glitchDescription" : "Charmed. A small Tari banner...",
+  "humanDescription" : "The Tari banner quite lovely.",
+  "hylotlDescription" : "The banner is just lovely.",
+  "novakidDescription" : "This would look great in my house.",
+  "TariDescription" : "I am so happy to see the Tari culture thrive",  
+  "inventoryIcon" : "Taribannersmallicon.png",
+  "orientations" : [
+    {
+      "image" : "Taribannersmall.png:<color>",
+      "imagePosition" : [2, -2],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+      "spaceScan" : 0.1,
+      "anchors" : []
+    }
+  ]
+}

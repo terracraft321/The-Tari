@@ -1,0 +1,10 @@
+[{
+		"op" : "add",
+		"path" : "/species/Tari",
+		"value" : {
+			"aiFrames" : "TariAI.png",
+			"portraitFrames" : "portraits/Tariportrait.png",
+			"staticFrames" : "staticTari.png"	
+		}
+	}
+]

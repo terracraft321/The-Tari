@@ -1,0 +1,17 @@
+[
+	{
+		"op": "add",
+		"path": "/initialquests/Tari",
+		"value": [
+			"protectorate"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/pronounGenders/Tari",
+		"value": {
+			"male": "neutral",
+			"female": "neutral"
+		}
+	}
+]

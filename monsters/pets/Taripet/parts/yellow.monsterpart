@@ -1,0 +1,8 @@
+{
+  "name" : "yellow",
+  "category" : "Taripet",
+  "type" : "body",
+  "frames" : {
+    "body" : "yellow.png"
+  }
+}
